@@ -1,0 +1,30 @@
+# Core Python
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+seaborn
+pickle5
+gc
+
+# Torch & Transformers
+torch>=2.0
+transformers>=4.39
+peft>=0.10.0
+accelerate>=0.27.2  
+
+# Hugging Face utilities
+huggingface_hub>=0.20.0
+
+# Visualization & Logging
+matplotlib
+seaborn
+logging
+
+# Utilities
+argparse
+python-dotenv
+
+# intervention
+nnsight>=0.1.9  
