@@ -1,9 +1,9 @@
 Project: Understanding the importance of punctuations in information propogation. Token level interventions and layer swapping experiments to evaluate the model reasoning ability. Experiments done on gpt2, gemma-2b, and deepseek-1.3b.
 
 - **Trained Models**:
-  - `models/`: Includes zipped model files.
-    - `gpt2`: finetuned gpt2 model can be unzipped and used directly.
-    - `deepseek`, `gemma`: LoRA adapters. Merge with base models using `scripts/run_merge.py`.
+  - `models/`: Includes zipped model files.  
+    - `gpt2`: finetuned gpt2 model can be unzipped and used directly.  
+    - `deepseek`, `gemma`: LoRA adapters. Merge with base models using `scripts/run_merge.py`.  
 
 - **Datasets**:  
   - Available in `Datasets_intervention/`
